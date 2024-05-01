@@ -16,8 +16,8 @@ This project leverages tree-based machine learning algorithms, including Decisio
 The primary goal is to understand the predictive power of tree-based models in assessing loan repayment risks and to compare the performance and variable importance identified by Decision Trees and Random Forests.
 
 # Tools Used
--Python
--Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+- Python
+- Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
 # How to Run the Notebook
 - Clone the repository to your local machine.
