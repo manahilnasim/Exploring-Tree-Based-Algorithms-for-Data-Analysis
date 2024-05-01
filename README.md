@@ -40,9 +40,7 @@ For each model implemented:
 - Variable Importance: Correlation analysis highlighted the most significant variables related to the target variable. Variables like DAYS_BIRTH, REGION_RATING_CLIENT, and DAYS_LAST_PHONE_CHANGE showed strong positive correlations with the target, indicating higher importance in predicting loan defaults.
 - Negative Correlations: Variables like EXT_SOURCE_1, EXT_SOURCE_2, and EXT_SOURCE_3 showed strong negative correlations, suggesting that higher values of these external sources are associated with lower chances of default.
 
-Model Description: Provide a brief overview of the model.
-Key Observations: Discuss the accuracy, precision, recall, and other relevant metrics.
-Visualizations: Analyze any plots comparing model performances or showing important features.
-Conclusions: What can be inferred from the comparisons? Which model performs best and under what conditions?
-Future Work
-Suggestions on how the models might be improved, potential data to include, or other algorithms to explore.
+# Conclusions
+Tree-based models, especially Random Forests, are powerful tools for this type of classification task, providing robust and reliable predictions with comprehensive variable importance analysis.
+# Future Work
+Future analyses could explore more complex ensemble techniques like Gradient Boosting or incorporate additional data sources to further refine the models' predictive accuracy.
